@@ -1,0 +1,122 @@
+Response ID,Time Taken to Complete (Seconds),Seq. Number,Country Code,Region,Name (Write NA if you do not wish to disclose),Age (in years),Marital Status,Designation,Industry currently working in,Job satisfaction,Work/life balance,L&D,FWA,Career advancement,Y values,JS,WLB,L,FW
+99667764,153,1,IN,MH,Priyansha Batra,1,1,Analyst,Consulting,3.11,3.17,2.45,1.5,4.31,1,1,1,0,0
+99667832,174,1,IN,,Palak Dua,1,1,Advanced Analyst,Assurance,2.47,3,2.45,1.75,3.8,1,0,1,0,0
+99668252,329,1,IN,UP,Stutii,1,1,Analyst,Quality council of India,2.94,2.67,1.15,2.25,3.89,1,1,1,0,0
+99668275,200,1,IN,DL,NA,3,2,Associate,Banking,3.14,3.33,4.55,2,3.94,1,1,1,1,0
+99668341,106,1,IN,UP,Jerry,1,1,Software engineer,Warner brothers,1.9,3.67,0,1.5,1,0,0,1,0,0
+99668388,172,1,IN,TN,Vanshika,1,1,Risk Analyst,Banking,2.06,2.33,0.55,1,2.59,1,0,0,0,0
+99668402,183,1,IN,UP,NA,1,1,Analyst,Bjyus,2.4,2.17,0,2.75,1.88,0,0,0,0,1
+99668432,491,1,IN,UP,NA,1,1,Infrastructure Security Engineer,Sopra Steria India,1.9,2.67,0.15,2.75,2.21,0,0,1,0,1
+99668593,118,1,IN,MH,Surbhi,1,1,Analyst,Kpmg,2.58,3,0,2.25,2,0,1,1,0,0
+99668609,195,1,IN,,Avishka Gupta,1,1,Analyst,IT,1.54,1,1.55,1,1.53,0,0,0,0,0
+99668637,208,1,IN,UP,Ananya,1,1,Data Analyst,IT,2.25,2.83,0,1.25,2.18,0,0,1,0,0
+99668680,497,1,IN,DL,Aditi Chaudhary,1,1,Graphic Designer,Design,3.24,2.67,5,2.5,4.53,1,1,1,1,1
+99668779,319,1,IN,DL,Palak,1,1,Trainee,Automotive,1.71,3,0,2.25,2,0,0,1,0,0
+99668889,237,1,IN,KA,Kalpana Chaudhary,3,2,Associate,Finance,2.32,3,4.55,1.75,2.47,0,0,1,1,0
+99670716,284,1,IN,,Vartika Sisodiya,2,2,Account Manager,Software,1.51,2.67,4.55,1,1.95,0,0,1,1,0
+99670733,245,1,IN,DL,NA,1,1,Sr Software Engineer Ca,Capgemini,3.09,3.17,0.55,2.75,2.89,1,1,1,0,1
+99671562,309,1,IN,MH,Ankita Rathod,1,1,Store Manager,Retail,2.04,3.5,1.55,2,2.39,0,0,1,0,0
+99673432,849,1,,,Priyanka Wadhwani,2,1,Associate,Banking Industry,2.53,2.5,0,1.5,3.12,1,1,1,0,0
+99673656,238,1,CA,BC,Shreya,2,2,Software developer,IT,2.26,2,0.6,1,2.53,1,0,0,0,0
+99675254,203,1,IN,KA,NA,3,2,Associate,Banking,2.78,1.83,4.55,1.75,4.05,1,1,0,1,0
+99675435,231,1,IN,UP,NA,3,2,Solutions architect,Technology consulting,2.08,2.5,2.45,1,1.68,0,0,1,0,0
+99675453,242,1,IN,DL,Mehek Rai,1,1,Senior Analyst,Consulting,2.6,3.67,4.55,3,3.11,1,1,1,1,1
+99675896,158,1,IN,UP,Aman,2,1,Adani Gas,Oil and Gas,1.78,3.33,0,2,2,0,0,1,0,0
+99676374,206,1,AU,ACT,Akansha Agarwal,1,1,Analyst,Consulting Firm,2.26,3,0.15,1,2,0,0,1,0,0
+99677160,166,1,IN,DL,NA,2,1,Product Manager,IT,2.21,2.5,2.25,2,2.79,1,0,1,0,0
+99677625,343,1,GB,ENG,Swati singh,1,1,Software engineer,IT,1.88,3,0.15,1,1,0,0,1,0,0
+99679436,205,1,IN,UP,Nandita,3,3,Associate Project Manager,Compro Technologies,1.86,2.67,5,1.5,2.59,1,0,1,1,0
+99679568,359,1,IN,UP,Dinky,1,1,Audit,Audit,3.27,3.17,4,2.25,5,1,1,1,1,0
+99685850,295,1,IN,UP,Jyoti Mishra,3,2,Risk Analyst,Finance,1.28,2.17,0.7,2.5,2.18,0,0,0,0,1
+99695630,199,1,IN,DL,NA,2,2,Team Manager,Consulting,1.6,2.5,0.15,1,1.32,0,0,1,0,0
+99696365,264,1,IN,MH,NA,1,1,Assistant manager,Automobile ancillary,2.83,3,0.15,1,4.25,1,1,1,0,0
+99703693,168,1,IN,UP,NA,2,2,Owner,Pharma,1.76,2.83,0,3,1,0,0,1,0,1
+99704199,965,1,IN,JK,Stuti Singhal,2,1,Special Educator,Shiv Nadar School,1.23,2.5,0.55,2,1.59,0,0,1,0,0
+99705478,174,1,IN,UP,NA,4,2,CEO,Pharmaceutical,1,3,0.15,1,1,0,0,1,0,0
+99705530,515,1,IN,MH,Bhavya Sarna,1,1,Analyst,BFSI,2.59,2.5,2.45,2.25,2.36,0,1,1,0,0
+99707814,150,1,IN,MH,Prabhleen Khotra,1,1,System Engineer,IT,2.66,2.33,0.15,2,2.71,1,1,0,0,0
+99708313,256,1,IN,MH,NA,2,2,NA,NA,1.33,2.5,0.15,1,1.59,0,0,1,0,0
+99708743,123,1,IN,MH,Dimple,2,2,Manager,IT,2.79,3,1.55,2,1.7,0,1,1,0,0
+99708795,60,1,IN,MH,Kiran Pagade,3,3,associate consultant,IT Consulting,2.37,3,0.45,2,2.27,0,0,1,0,0
+99708829,55,1,IN,MH,Garima Sagar,3,3,Team Lead,IT,2.98,3.33,2,2.25,2.12,0,1,1,0,0
+99708855,160,1,IN,MH,Ankita Mahajan,3,3,Manager,IT,1.81,3.17,1.55,2.25,1.95,0,0,1,0,0
+99708984,72,1,IN,MH,Shefali Babbar,2,1,Associate Consultant,IT,2.31,3.5,0.6,2.25,1.89,0,0,1,0,0
+99709019,369,1,IN,DL,NA,1,1,Head - Outbound Tours,Travel,1.63,2.5,0.15,2,1,0,0,1,0,0
+99709025,53,1,IN,MH,Maanya Sharma,4,3,Manager,IT,2.31,2.83,1.55,2.25,2.7,1,0,1,0,0
+99709333,625,1,IN,MH,Parul Khanna,4,3,Manager,IT,2.89,3,2.25,2.75,3.08,1,1,1,0,1
+99709694,90,1,IN,MH,Bhavna Sisodia,4,3,Senior Manager,IT,2.34,3.67,2.1,2.5,2.64,1,0,1,0,1
+99709742,53,1,IN,MH,NA,2,1,Senior Software Engineer,IT,1.82,2.83,2.1,2.25,1.53,0,0,1,0,0
+99709802,91,1,IN,MH,Aditi Saran,3,2,Manager,IT,2.92,3,4.3,2.25,1.58,0,1,1,1,0
+99709831,62,1,IN,MH,NA,1,1,Software Developer,IT,1.53,3,0.45,1.75,2.26,0,0,1,0,0
+99709931,1107,1,IN,MH,NA,3,2,Manager,Consulting,1.82,3,1.55,2.25,1.95,0,0,1,0,0
+99710391,46,1,IN,MH,NA,4,3,Team Leader,Consulting,1.6,3.33,2.55,2.25,1.58,0,0,1,1,0
+99710421,184,1,IN,MH,NA,2,1,Senior Engineer,IT,2.18,2.83,0.6,2.75,2.05,0,0,1,0,1
+99710515,60,1,IN,MH,Rashi Kumar,1,1,Software Developer,IT,2.06,3.33,2.55,2,3.33,1,0,1,1,0
+99710538,62,1,IN,MH,NA,2,2,Senior Developer,IT,3.46,3.67,0.7,3.25,3.68,1,1,1,0,1
+99710586,68,1,IN,MH,Khushi Devraj,3,3,Team Lead,Consulting,2.03,3.33,2.1,2.25,1.73,0,0,1,0,0
+99710629,52,1,IN,MH,NA,1,1,Software engineer,IT,1.84,2.5,2.45,2,2.67,1,0,1,0,0
+99710839,66,1,IN,MH,na,2,1,Senior Software Engineer,IT,1.86,3.33,2.55,2,2.15,0,0,1,1,0
+99710868,88,1,IN,MH,Divya Arora,3,2,Manager,Consulting,2.01,2.83,2,2,2.69,1,0,1,0,0
+99710903,61,1,IN,MH,Shivani Singh,1,1,Analyst,Consulting,1.94,2.33,2.45,2.25,1.72,0,0,0,0,0
+99710932,64,1,IN,MH,NA,4,2,Senior Consultant,Consulting,3.07,2.83,2.15,3,3.08,1,1,1,0,1
+99710975,94,1,IN,MH,Lovely Bhatt,2,1,Senior Analyst,IT,1.77,2.83,1.55,2,2.56,1,0,1,0,0
+99711003,62,1,IN,MH,NA,3,3,Manager,IT,1.5,2.67,3.85,1.5,1.64,0,0,1,1,0
+99711146,58,1,IN,MH,Priya Verma,2,1,Senior Analyst,IT,2.04,2.67,2,2,2.26,0,0,1,0,0
+99719992,423,1,IN,MH,Neha Sharma,3,2,Project Manager,Automobile Ancillary,2.38,2.67,0,1,2.83,1,0,1,0,0
+99722004,60,1,IN,DL,NA,2,2,Manager,Consulting,1.86,3.17,0.6,2,1.58,0,0,1,0,0
+99722053,119,1,IN,DL,Hitika Saxena,1,1,Analyst,IT,2.23,2.67,2.9,2,1.46,0,0,1,1,0
+99722100,60,1,IN,DL,Harleen Sethi,2,1,Senior Analyst,Consulting,1.93,3.5,0.6,2,1.74,0,0,1,0,0
+99722136,85,1,IN,DL,Kareena Khanna,3,3,Manager,Consulting,2.18,3,1.55,2,1.99,0,0,1,0,0
+99722161,85,1,IN,MH,NA,4,2,Shivangi Dubey,IT,2.13,3.5,2.15,2.25,2.03,0,0,1,0,0
+99722202,113,1,IN,MH,NA,2,1,Senior Analyst,Consulting,2.09,3.17,0.45,2.5,2.68,1,0,1,0,1
+99722229,87,1,IN,MH,Nandini Srivastava,2,2,Team Lead,Consulting,1.37,2.67,4.3,2,2.25,0,0,1,1,0
+99722259,111,1,IN,MH,Ishita Kumari,2,2,Manager,IT,2.01,3.5,2.75,2,2.26,0,0,1,1,0
+99722290,117,1,IN,MH,Preeti Vij,2,2,Team Lead,Consulting,2.08,2.5,2,2,2.15,0,0,1,0,0
+99724654,529,1,IN,UP,Saanchi,2,1,Assistant Manager,Finance,2.3,2.5,0.7,2.25,2.3,0,0,1,0,0
+99730301,88,1,IN,MH,Ritvi Chakrabarty,2,2,Senior Analyst,Consulting,2.08,2.83,2,1.5,1.85,0,0,1,0,0
+99730313,75,1,IN,MH,NA,1,1,Analyst,IT,1.92,2.83,0.6,2,2.38,0,0,1,0,0
+99730323,80,1,IN,MH,Chetana Ahuja,2,1,Associate Consultant,IT,3.12,3,2.25,3,3.21,1,1,1,0,1
+99730336,52,1,IN,MH,Aarushi Jain,4,3,Team Lead,IT,2.33,2.83,4.3,2.25,2.37,0,0,1,1,0
+99730347,132,1,IN,MH,Anshika Srivastav,1,1,Probationary Officer,Consulting,2.22,2.83,0.7,2.25,1.55,0,0,1,0,0
+99730376,56,1,IN,MH,NA,3,2,Team Lead,Consulting,2.31,3.33,4,1.75,2.22,0,0,1,1,0
+99730386,83,1,IN,MH,Neha Chauhan,2,1,Tech Lead,IT,1.77,3.5,4.3,2,2.57,1,0,1,1,0
+99730400,76,1,IN,MH,Gargi Prabhu,1,1,Associate,IT,1.94,3.5,0.6,2,2.15,0,0,1,0,0
+99730428,92,1,IN,MH,NA,3,3,Manager,Consulting,2.77,3,0.6,2,1.52,0,1,1,0,0
+99730439,110,1,IN,MH,Akanksha Tyagi,4,3,Senior Manager,Consulting,1.79,3.33,0.45,2.25,2.56,1,0,1,0,0
+99730456,171,1,IN,MH,Simran Runwal,4,3,HR Manager,Consulting,2.23,3,2.45,2,2.68,1,0,1,0,0
+99730480,87,1,IN,MH,Saumya Bhatia,4,3,Senior Consultant,IT Consulting,1.69,3.17,2.1,2,2.03,0,0,1,0,0
+99730497,63,1,IN,MH,Ananya Sharma,4,3,Senior Tech Manager,IT,2.13,2.5,2.9,2,1.32,0,0,1,1,0
+99730508,61,1,IN,MH,Aastha Jamwal,3,2,Tech Lead,IT,2.18,2.83,0.6,2.5,2.09,0,0,1,0,1
+99730540,862,1,IN,MH,Hema Mittal,4,2,Senior Manager,IT,1.91,2.83,2,2.25,1.63,0,0,1,0,0
+99730649,52,1,IN,MH,NA,2,1,Senior Software Engineer,IT,2.32,3.17,2.1,2.5,2.85,1,0,1,0,1
+99730655,115,1,IN,MH,NA,2,2,Associate consultant,Consulting,2.14,3.5,2.75,2.25,2.15,0,0,1,1,0
+99730669,82,1,IN,MH,Divya Sareen,1,1,Analyst,Consulting,1.87,3,4.3,2,1.97,0,0,1,1,0
+99730683,61,1,IN,MH,NA,3,2,Consultant,Consulting,2.49,2.83,3.85,2,1.97,0,0,1,1,0
+99730694,84,1,IN,MH,Vidhi Sanyal,4,3,Senior Manager,IT,2.17,3,3,2.5,2.15,0,0,1,1,1
+99730708,90,1,IN,MH,Paavni Gaurola,2,2,Tech Lead,IT,2.28,2.83,0.15,2,2.56,1,0,1,0,0
+99730737,355,1,IN,MH,Vidya Bali,1,1,Tech Associate,IT,2.31,2.67,2.45,2.25,2.08,0,0,1,0,0
+99730798,75,1,IN,MH,NA,4,2,Senior Consultant,Consulting,2.17,3.17,2.75,1.75,1.76,0,0,1,1,0
+99730811,95,1,IN,MH,Komal,3,2,Tech Lead,IT,2.08,3.33,0.15,2.25,1.74,0,0,1,0,0
+99730866,113,1,IN,MH,Nandita,4,3,Senior Manager,Consulting,1.94,3,1.55,2,2.03,0,0,1,0,0
+99730867,613,1,IN,MH,Anandi Vadakoppula,4,3,Human Capital consultant,Consulting,1.17,1.83,0.15,2.25,2.53,1,0,0,0,0
+99730889,86,1,IN,MH,Saanya Obheroi,4,2,Senior COnsultant,Consulting,1.94,3.33,2.75,2,1.52,0,0,1,1,0
+99730904,52,1,IN,MH,Na,4,2,Team Lead,Consulting,3.14,2.83,2.55,3.25,3.43,1,1,1,1,1
+99730933,53,1,IN,MH,Simran Kalra,3,2,Senior Engineer,IT,2.25,2.17,0.15,2.75,2.57,1,0,0,0,1
+99730952,77,1,IN,MH,na,4,3,Tech Lead,Consulting,2.79,3.17,1.55,2.5,2.17,0,1,1,0,1
+99730982,66,1,IN,MH,Tanvi,4,3,Senior Manager,IT,2.11,3.17,2.75,2.5,2.54,1,0,1,1,1
+99731005,70,1,IN,MH,Trupti,3,3,Team Lead,Consulting,1.54,3.33,2,2.25,1.97,0,0,1,0,0
+99731026,87,1,IN,MH,Garima Gera,4,3,Associate consultant,Consulting,3.5,3.17,2,2,2.8,1,1,1,0,0
+99731042,132,1,IN,MH,Rashi Sharma,4,3,Consultant,IT,2.47,2.67,0.6,2,2.03,0,0,1,0,0
+99731069,95,1,IN,MH,Preeti,4,3,Team Lead,it,2.32,2.83,2.75,2.5,2.15,0,0,1,1,1
+99731096,197,1,IN,MH,Dr. Shefali Prajapati,4,3,Graduate Analyst,IT,2.12,2.33,0.15,1.75,1.2,0,0,0,0,0
+99731774,42,1,IN,DL,NA,1,1,Analyst,IT,2.18,2.83,2.75,2,1.5,0,0,1,1,0
+99731784,175,1,IN,DL,Sara Qureshi,1,1,Associate,Consulting,2.19,3.17,0.6,2,1.5,0,0,1,0,0
+99731879,96,1,IN,DL,NA,1,1,Software ENgineer,Consulting,2.33,2.83,2.45,2.5,1.97,0,0,1,0,1
+99731911,275,1,IN,DL,Muskaan,1,1,Analyst,Consulting,2.31,3.33,2.45,2,3.08,1,0,1,0,0
+99731969,65,1,IN,DL,sakshi,1,1,junior analyst,consulting,2.59,3.17,2.9,2.25,2.5,0,1,1,1,0
+99731982,75,1,IN,DL,NA,1,1,Associate,Bank,2.12,3.33,2.75,1.75,1.63,0,0,1,1,0
+99732015,111,1,IN,DL,Nisha Chaudhary,1,1,Software Engineer,Banking,2.12,3.5,2.75,2,2.34,0,0,1,1,0
+99732042,109,1,IN,DL,Na,1,1,junior engineer,ites,1.97,2.5,0.6,2,2.32,0,0,1,0,0
+99732066,57,1,IN,DL,Aarushi Jha,1,1,Engineer,Pharma,1.88,2.83,2.45,1.75,1.82,0,0,1,0,0
+99732080,252,1,IN,DL,Ananya Gupta,1,1,Associate,Bank,2.48,3.17,2.75,2.25,2.43,0,0,1,1,0
+99732143,140,1,IN,DL,NA,2,1,Finance Executive,Finance,2,2.67,0,2.5,2.59,1,0,1,0,1
